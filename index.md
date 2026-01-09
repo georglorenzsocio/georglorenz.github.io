@@ -9,6 +9,6 @@ He obtained my PhD in social sciences ('summa cum laude') in 2017 from the Unive
 
 My research agenda focuses on educational inequality, social cohesion in diverse school environments, and the dynamics of adolescent social networks. My work takes an interdisciplinary approach, integrating sociology with psychology, educational science, and computational social science. I have advanced theory on how subtle forms of ethnic discrimination and segregation emerge and affect inequality in schools, and this work has shaped both academic debates and public discourse. Methodologically, I combine large-scale survey design, longitudinal network analysis, simulations, and mixed-methods approaches to gain novel empirical insights on relational processes in schools.
 
-Below you can find a brief list of my publications and work in progress. You can find more detailed information on my research projects here and read about my professional and teaching activities here. You can also find my up-to-date CV (Nov 2025) here, and visit my Google Scholar profile.
+Below is a list of my publications and work in progress. You can find more detailed information on my research projects here and read about my professional and teaching activities here. You can also find my up-to-date CV here, and visit my Google Scholar profile.
 
-Finally, please feel free to contact me at: a.macanovic [at] uu [dot] nl
+Feel free to contact me at: g.lorenz [at] uu [dot] nl
