@@ -3,6 +3,4 @@ layout: page
 title: CV
 ---
 
-You can download my CV here.
-
-(Upload a PDF later.)
+[Download CV (PDF)](/files/cv.pdf)
